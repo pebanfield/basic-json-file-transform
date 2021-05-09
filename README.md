@@ -13,10 +13,10 @@ A zero dependency Node js command line app that reads, transforms and writes JSO
 2. run ``` git clone git@github.com:pebanfield/basic-json-file-transform.git ```
 3. run ``` node index.js ``` from project directory
 4. Verify results
-  - [ ] output.json is produced
-  - [ ] playlist 4 is added
-  - [ ] playlist 2 is removed
-  - [ ] playlist 3 updated with song 5
+  - output.json is produced
+  - playlist 4 is added
+  - playlist 2 is removed
+  - playlist 3 updated with song 5
 
 ## A note about performance
 
