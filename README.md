@@ -5,12 +5,14 @@ A zero dependency Node js command line app that reads, transforms and writes JSO
 ## Pre-requisites :
 
 - (Node version 11 or greater.)[https://nodejs.org/en/]
+- (git)[https://git-scm.com/]
 
 ## Verification Steps :
 
 1. Install a recent version of node
-2. run ``` node index.js ``` from project directory
-3. Verify results
+2. run ``` git clone git@github.com:pebanfield/basic-json-file-transform.git ```
+3. run ``` node index.js ``` from project directory
+4. Verify results
 - output.json is produced
 - playlist 4 is added
 - playlist 2 is removed
