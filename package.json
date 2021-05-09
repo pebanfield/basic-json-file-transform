@@ -1,0 +1,21 @@
+{
+  "name": "streamed-json-transform",
+  "version": "1.0.0",
+  "description": "A node js command line app that streams and transforms a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pebanfield/streamed-json-transform.git"
+  },
+  "author": "P.E. Banfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pebanfield/streamed-json-transform/issues"
+  },
+  "homepage": "https://github.com/pebanfield/streamed-json-transform#readme",
+  "dependencies": {
+  }
+}
